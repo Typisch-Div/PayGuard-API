@@ -1,4 +1,4 @@
-PayGuard API
+## PayGuard API
 
 A production-minded, high-performance REST API built with **Python 3.12**, **FastAPI**, **PostgreSQL**, **SQLAlchemy 2.0 (asyncio)**, **Alembic**, **pytest**, and **Docker Compose**.
 
